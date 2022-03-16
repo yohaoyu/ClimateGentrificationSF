@@ -1,6 +1,8 @@
 # Research on San Francisco Climate Gentrification
 
-Haoyu Yue, Urban Design and Planning, University of Washington
+Haoyu Yue, Department of Urban Design and Planning, University of Washington
+
+`The dataset and procedural files are HUGE so I cannot push to GitHub.`
 
 ## Introduction
 
